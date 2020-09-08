@@ -1,7 +1,7 @@
 # Hướng dẫn
 - Bước 1: Download file  [kashoapp-master.zip](https://github.com/dongocquy/kashoapp/archive/master.zip)
 - Bước 2: Giải nén và chạy file: KASHO.Win.exe
-![KASHO.Win.exe](https://github.com/dongocquy/kashoapp/blob/master/Images/kasho.win.exe.png?raw=true)]
+- ![KASHO.Win.exe](https://github.com/dongocquy/kashoapp/blob/master/Images/kasho.win.exe.png?raw=true)
 - Bước 3: Admin (có tài khoản là Admin) tạo Role và User, phân quyền theo chức năng nhiệm vụ từng nhân viên
 - Bước 4: Trong form đăng nhập, click vào Đăng ký để tạo tài khoản. 
 - ![Download](https://github.com/dongocquy/kashoapp/blob/master/Images/loginform.png?raw=true)
